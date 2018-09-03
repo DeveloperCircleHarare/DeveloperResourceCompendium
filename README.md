@@ -70,3 +70,7 @@ CodePen is a social development environment for front-end designers and develope
 Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines.
 ESLint was created was to allow developers to create their own linting rules. ESLint is designed to have all rules completely pluggable.
 [https://eslint.org/docs/about/](https://eslint.org/docs/about/)
+
+### Passbolt  
+Self-host passbolt on your own server and keep full data ownership
+[https://www.passbolt.com/](https://www.passbolt.com/)
