@@ -61,3 +61,7 @@ Gitter is designed to make community messaging, collaboration and discovery as s
 ### StackEdit  
 In-browser Markdown editor
 [https://stackedit.io/](https://stackedit.io/)
+
+### Passbolt  
+Self-host passbolt on your own server and keep full data ownership
+[https://www.passbolt.com/](https://www.passbolt.com/)
