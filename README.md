@@ -65,3 +65,8 @@ In-browser Markdown editor
 ### CodePen (Try out frontend code in the browser)
 CodePen is a social development environment for front-end designers and developers.
 [https://codepen.io/](https://codepen.io/)
+
+### ESLint The pluggable linting utility for JavaScript and JSX
+Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines.
+ESLint was created was to allow developers to create their own linting rules. ESLint is designed to have all rules completely pluggable.
+[https://eslint.org/docs/about/](https://eslint.org/docs/about/)
