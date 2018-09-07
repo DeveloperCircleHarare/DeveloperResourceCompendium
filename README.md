@@ -55,12 +55,21 @@ Developers, teams, and businesses of all sizes use Heroku to deploy, manage, and
 [https://www.heroku.com/home](https://www.heroku.com/home)
 
 ### Gitter — Where developers come to talk.
-Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible. Gitter is an open source instant messaging and chat room system for developers and users of GitHub repositories.  
+Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible. Gitter is an open source instant messaging and chat room system for developers and users of GitHub repositories. 
 [https://gitter.im/](https://gitter.im/)
 
 ### StackEdit  
 In-browser Markdown editor 
 [https://stackedit.io/](https://stackedit.io/)
+
+### CodePen (Try out frontend code in the browser)
+CodePen is a social development environment for front-end designers and developers. 
+[https://codepen.io/](https://codepen.io/)
+
+### ESLint The pluggable linting utility for JavaScript and JSX
+Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines.
+ESLint was created was to allow developers to create their own linting rules. ESLint is designed to have all rules completely pluggable. 
+[https://eslint.org/docs/about/](https://eslint.org/docs/about/)
 
 ### Passbolt  
 Self-host passbolt on your own server and keep full data ownership 
