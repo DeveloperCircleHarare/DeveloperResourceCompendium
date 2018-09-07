@@ -1,5 +1,5 @@
 # The Developer Resource Compendium
-## A document with useful links &amp; resources for developers of skill levels and backgrounds
+## A document with useful links &amp; resources for developers of all skill levels and backgrounds
 
 ## [facebook for developers](https://developers.facebook.com/)
 ##### [Tools](https://developers.facebook.com/tools/)
