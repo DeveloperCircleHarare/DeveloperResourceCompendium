@@ -28,14 +28,14 @@ Uplabs is the leading community of creatives, offering the best digital inspirat
 [https://sqldbm.com/en/Home/](https://sqldbm.com/en/Home/)
 
 ###  SqliteOnline  
-Online Sqlite DB editor and generator  
+Online Sqlite DB editor and generator   
 [https://sqliteonline.com/](https://sqliteonline.com/)
 
-### Sqlite tutorials
+### Sqlite tutorials 
 [http://www.sqlitetutorial.net/](http://www.sqlitetutorial.net/)
   
 ### DeviantArt 
-An online artwork, videography and photography community.
+An online artwork, videography and photography community. 
 [https://www.deviantart.com/](https://www.deviantart.com/)
   
 ### Draw io
@@ -43,15 +43,15 @@ draw.io is free online diagram software for making flowcharts, process diagrams,
 [https://www.draw.io/](https://www.draw.io/)
 
 ### MakeAppIcon
-MakeAppIcon is an icon creator that resizes all iOS icons and Android icons. With our icon resizer, you can import app icons to Android Studio and Xcode in 3s.
+MakeAppIcon is an icon creator that resizes all iOS icons and Android icons. With our icon resizer, you can import app icons to Android Studio and Xcode in 3s. 
 [https://makeappicon.com/](https://makeappicon.com/)
 
 ### Materialize
-A modern responsive front-end framework based on Material Design
+A modern responsive front-end framework based on Material Design 
 [https://materializecss.com/](https://materializecss.com/)
 
 ### Heroku
-Developers, teams, and businesses of all sizes use Heroku to deploy, manage, and scale apps. Whether you're building a simple prototype or a business-critical product, Heroku's fully-managed platform gives you the simplest path to delivering apps quickly. Learn more about how Heroku can benefit your app development.
+Developers, teams, and businesses of all sizes use Heroku to deploy, manage, and scale apps. Whether you're building a simple prototype or a business-critical product, Heroku's fully-managed platform gives you the simplest path to delivering apps quickly. Learn more about how Heroku can benefit your app development. 
 [https://www.heroku.com/home](https://www.heroku.com/home)
 
 ### Gitter — Where developers come to talk.
@@ -59,9 +59,19 @@ Gitter is designed to make community messaging, collaboration and discovery as s
 [https://gitter.im/](https://gitter.im/)
 
 ### StackEdit  
-In-browser Markdown editor
+In-browser Markdown editor 
 [https://stackedit.io/](https://stackedit.io/)
 
 ### Passbolt  
-Self-host passbolt on your own server and keep full data ownership
+Self-host passbolt on your own server and keep full data ownership 
 [https://www.passbolt.com/](https://www.passbolt.com/)
+
+### build-your-own-x
+Build your own (insert technology here) 
+An amazing repository with source code and examples on how to build custom versions of technologies ranging from Augmented Reality
+to Web Servers 
+[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+
+### project-based-learning
+A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermix technologies and languages. 
+[project-based-learning](https://github.com/tuvtran/project-based-learning)
