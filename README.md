@@ -74,3 +74,13 @@ ESLint was created was to allow developers to create their own linting rules. ES
 ### Passbolt  
 Self-host passbolt on your own server and keep full data ownership
 [https://www.passbolt.com/](https://www.passbolt.com/)
+
+### build-your-own-x
+Build your own (insert technology here) 
+An amazing repository with source code and examples on how to build custom versions of technologies ranging from Augmented Reality
+to Web Servers
+[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+
+### project-based-learning
+A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermix technologies and languages.
+[project-based-learning](https://github.com/tuvtran/project-based-learning)
