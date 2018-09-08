@@ -14,6 +14,10 @@
 ### 100+ Useful Web Development Tools and Resources
 [https://medium.com/level-up-web/100-awesome-web-development-tools-and-resources-f50e776ea20c](https://medium.com/level-up-web/100-awesome-web-development-tools-and-resources-f50e776ea20c)
 
+### Favicomatic
+Online Favicon Generator 
+http://www.favicomatic.com/
+
 ### Beautiful Royalty Free Photos  
 [https://unsplash.com/](https://unsplash.com/)
 
