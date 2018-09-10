@@ -18,6 +18,10 @@
 Online Favicon Generator 
 http://www.favicomatic.com/
 
+### AllBestFonts
+Free fonts
+https://allbestfonts.com/
+
 ### Beautiful Royalty Free Photos  
 [https://unsplash.com/](https://unsplash.com/)
 
