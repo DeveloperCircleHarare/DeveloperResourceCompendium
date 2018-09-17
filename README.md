@@ -92,3 +92,8 @@ to Web Servers
 ### project-based-learning
 A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermix technologies and languages. 
 [project-based-learning](https://github.com/tuvtran/project-based-learning)
+
+### Xml Sitemap Generator
+Easily generate HTML, RSS and Google XML sitemaps for free. Compatible with major search engines including Google, Bing, Baidu, Yandex and more.
+XML sitemaps enable you to quickly and easily notify search engines about all the pages in your website and any changes. This ensures they are indexed quickly and correctly, especially with new websites which have lower natural discoverability. 
+[Xml Sitemap Generator](https://xmlsitemapgenerator.org/)
