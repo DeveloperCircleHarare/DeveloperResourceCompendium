@@ -50,6 +50,10 @@ An online artwork, videography and photography community.
 draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams  
 [https://www.draw.io/](https://www.draw.io/)
 
+### Icons8
+84,100 Free Flat Icons in any format, size and color in 20 seconds. All the Icons You Need. Guaranteed.
+[https://icons8.com/](https://icons8.com/)
+
 ### MakeAppIcon
 MakeAppIcon is an icon creator that resizes all iOS icons and Android icons. With our icon resizer, you can import app icons to Android Studio and Xcode in 3s. 
 [https://makeappicon.com/](https://makeappicon.com/)
