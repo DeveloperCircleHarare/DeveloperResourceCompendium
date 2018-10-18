@@ -11,57 +11,31 @@
 ##### [Products](https://developers.facebook.com/products/)
 ##### [Support](https://developers.facebook.com/support/)
 
-### 100+ Useful Web Development Tools and Resources
-[https://medium.com/level-up-web/100-awesome-web-development-tools-and-resources-f50e776ea20c](https://medium.com/level-up-web/100-awesome-web-development-tools-and-resources-f50e776ea20c)
+## Web Development
+* [100+ Useful Web Development Tools and Resources](https://medium.com/level-up-web/100-awesome-web-development-tools-and-resources-f50e776ea20c)
+## UX / UI Design
+* [Free fonts](https://allbestfonts.com/)
+* [Beautiful Royalty Free Photos](https://unsplash.com/)
+* [Royalty Free Photos, Graphics, Fonts, Vector Editor, Online Editor, Chrome Plugin](https://pixlr.com/)
+* [Icons8](https://icons8.com/) -> 84,100 Free Flat Icons in any format, size and color in 20 seconds. All the Icons You Need. Guaranteed.
+## Databases
+* [Sql DB Schema](https://sqldbm.com/en/Home/)
+* [SqliteOnline](https://sqliteonline.com/) -> Online Sqlite DB editor and generator
+* [Sqlite tutorials](http://www.sqlitetutorial.net/)
+## Mobile App Development (ios)
+## Mobile App Development (Android)
+## Tools
+* [CodePen](https://codepen.io/) -> is a social development environment for front-end designers and developers.
+* [Favicomatic](http://www.favicomatic.com/) -> Online Favicon Generator
+* [CodePad](http://codepad.org) -> is an online compiler/interpreter, and a simple collaboration tool.
 
-### Favicomatic
-Online Favicon Generator 
-http://www.favicomatic.com/
+## Other
+* [Uplabs](https://www.uplabs.com/) -> is the leading community of creatives, offering the best digital inspiration and downloads, every day. The Global Network For Creatives.
+* [DeviantArt](https://www.deviantart.com/) -> An online artwork, videography and photography community.
+* [Draw io](https://www.draw.io/) -> is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 
-### Codepad
-Codepad is an online compiler/interpreter, and a simple collaboration tool.
-http://codepad.org
 
-### CodePen (Try out frontend code in the browser)
-CodePen is a social development environment for front-end designers and developers. 
-[https://codepen.io/](https://codepen.io/)
-
-### AllBestFonts
-Free fonts
-https://allbestfonts.com/
-
-### Beautiful Royalty Free Photos  
-[https://unsplash.com/](https://unsplash.com/)
-
-### Royalty Free Photos, Graphics, Fonts, Vector Editor, Online Editor, Chrome Plugin
-[https://pixlr.com/](https://pixlr.com/)
-
-### Uplabs   
-Uplabs is the leading community of creatives, offering the best digital inspiration and downloads, every day. The Global Network For Creatives.
-[https://www.uplabs.com/](https://www.uplabs.com/)
-
-### Sql DB Schema  
-[https://sqldbm.com/en/Home/](https://sqldbm.com/en/Home/)
-
-###  SqliteOnline  
-Online Sqlite DB editor and generator   
-[https://sqliteonline.com/](https://sqliteonline.com/)
-
-### Sqlite tutorials 
-[http://www.sqlitetutorial.net/](http://www.sqlitetutorial.net/)
-  
-### DeviantArt 
-An online artwork, videography and photography community. 
-[https://www.deviantart.com/](https://www.deviantart.com/)
-  
-### Draw io
-draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams  
-[https://www.draw.io/](https://www.draw.io/)
-
-### Icons8
-84,100 Free Flat Icons in any format, size and color in 20 seconds. All the Icons You Need. Guaranteed.
-[https://icons8.com/](https://icons8.com/)
-
+#To be removed and categorised
 ### MakeAppIcon
 MakeAppIcon is an icon creator that resizes all iOS icons and Android icons. With our icon resizer, you can import app icons to Android Studio and Xcode in 3s. 
 [https://makeappicon.com/](https://makeappicon.com/)
