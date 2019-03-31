@@ -13,6 +13,8 @@
 
 ## Web Development
 * [100+ Useful Web Development Tools and Resources](https://medium.com/level-up-web/100-awesome-web-development-tools-and-resources-f50e776ea20c)
+* [Bootswatch Open Source customizable bootstrap themes](https://bootswatch.com/)
+
 ## UX / UI Design
 * [Free fonts](https://allbestfonts.com/)
 * [Beautiful Royalty Free Photos](https://unsplash.com/)
